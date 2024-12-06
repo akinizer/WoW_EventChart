@@ -588,6 +588,11 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-236" value="Once More Unto Breach" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1742.86" y="3200" width="70.61" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-253" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-238">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1976.4700000000003" y="3215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-238" value="Upon Shadowed Seas" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1902.3300000000002" y="3200" width="57.14" height="30" as="geometry" />
         </mxCell>
@@ -627,6 +632,9 @@
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-249" value="Great Portal" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1640.0000000000005" y="3420" width="57.14" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-255" value="Fall of Auchindoun" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1989.3300000000002" y="3200" width="57.14" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -956,7 +956,7 @@
           <mxGeometry x="240" y="4210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-483" value="Cataclysm" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#1482FF;strokeColor=#6c8ebf;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="590" y="4210" width="100" height="60" as="geometry" />
+          <mxGeometry x="410" y="4210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-484" value="Mists of Pandaria" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#1482FF;strokeColor=#6c8ebf;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="702.95" y="4210" width="100" height="60" as="geometry" />
@@ -976,14 +976,14 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-489" value="Dragonflight" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#1482FF;strokeColor=#6c8ebf;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1250" y="4210" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-493" value="-Outland,&lt;div&gt;-Second Invasion&amp;nbsp;&lt;/div&gt;&lt;div&gt;-Firelands &amp;amp; Archimonde, -Intro to Illidian&lt;/div&gt;" style="rounded=0;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-493" value="-Outland,&lt;div&gt;-Second Invasion&amp;nbsp;&lt;/div&gt;&lt;div&gt;-Intro to Illidian&lt;/div&gt;" style="rounded=0;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="50" y="4280" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-494" value="-New Lich King raises Scourge&lt;div&gt;-Ebon Blade &amp;amp; Ally vs Arthas&amp;nbsp;&lt;/div&gt;" style="rounded=0;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="204.79" y="4280" width="175.21" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-495" value="Deathwing" style="rounded=0;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="597.2621367521367" y="4280" width="85.4791452991453" height="30" as="geometry" />
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-495" value="-Deathwing returns from Deepholme to cause new Sundering&lt;div&gt;-Twilight Highlands activities&lt;/div&gt;&lt;div&gt;-Firelands &amp;amp; Archimonde&lt;/div&gt;&lt;div&gt;-Fall of Gilneas and Eruption of Kezan&lt;/div&gt;" style="rounded=0;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="398.63" y="4280" width="211.37" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-496" value="Mogu-Pandaren-Sha" style="rounded=0;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="710.2121367521368" y="4280" width="85.4791452991453" height="30" as="geometry" />

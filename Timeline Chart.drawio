@@ -111,7 +111,7 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-104" value="" style="group;labelBackgroundColor=default;labelBorderColor=none;fontColor=default;whiteSpace=wrap;" vertex="1" connectable="0" parent="0KqqUuabSOPp1zFiWMTm-402">
           <mxGeometry x="-349.99521367521373" y="290" width="850" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-415" value="Burning Crusade (Before Dark Portal)" style="rounded=0;html=1;strokeColor=default;align=left;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="0KqqUuabSOPp1zFiWMTm-104">
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-415" value="Burning Crusade (Before Great Sundering)" style="rounded=0;html=1;strokeColor=default;align=left;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="0KqqUuabSOPp1zFiWMTm-104">
           <mxGeometry x="-150" y="-260" width="1000" height="510" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-387" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="0KqqUuabSOPp1zFiWMTm-104" source="0KqqUuabSOPp1zFiWMTm-6" target="0KqqUuabSOPp1zFiWMTm-386">
@@ -820,7 +820,7 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-7" value="War Between Titans and Old Gods" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;direction=south;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="0KqqUuabSOPp1zFiWMTm-391">
           <mxGeometry y="141.42999999999984" width="71.19418803418803" height="57.14" as="geometry" />
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-44" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.372;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-7" target="0KqqUuabSOPp1zFiWMTm-2">
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-44" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.001;entryY=0.595;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-7" target="0KqqUuabSOPp1zFiWMTm-415">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-43" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-7" target="0KqqUuabSOPp1zFiWMTm-14">

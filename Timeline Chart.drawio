@@ -588,7 +588,7 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-324" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-325" target="0KqqUuabSOPp1zFiWMTm-335">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-325" value="Battle of Nethergarde" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-325" value="Battle of Nethergarde" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3022.59" y="3485" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-326" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-327" target="0KqqUuabSOPp1zFiWMTm-341">
@@ -647,7 +647,7 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-343" value="Alleria&#39;s Journey" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2950" y="3485" width="57.14" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-344" value="Fall of Auchindoun" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-344" value="Fall of Auchindoun" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3337.629999999999" y="3485" width="56.47" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-345" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-346" target="0KqqUuabSOPp1zFiWMTm-348">
@@ -711,7 +711,7 @@
             <mxPoint x="4050" y="3495" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-364" value="Bitter Taste of Victory&lt;div&gt;(Alliance Expedition)&lt;/div&gt;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-364" value="&lt;div&gt;Battle of Black Temple&lt;br&gt;&lt;div&gt;(Sons of Lothar)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3871.4899999999993" y="3485" width="151.46" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-365" value="=" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-362" target="0KqqUuabSOPp1zFiWMTm-366">
@@ -746,6 +746,9 @@
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-378" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Destruction of Dark Portal&lt;/span&gt;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="4059.9999999999995" y="3485" width="76.84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-379" value="Battle of Hellfire Citadel" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2949.9999999999995" y="3610" width="57.14" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -282,14 +282,26 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-125" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; color: rgb(234, 107, 102); background-color: initial;&quot;&gt;-Alliance of Lordareon&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ea6b66&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;-Destruction of Dark Portal&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ea6b66&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;-Banishment of Orcs from Azeroth / to Internment Camps&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ea6b66&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;-Enslavement of Red Dragons in Grim Batol&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ea6b66&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;-Alliance occupies Kingdom of Alterac&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ea6b66&quot;&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap;&quot;&gt;-Reclaim and reconstruction of Stormwind&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;align=left;verticalAlign=top;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1247.4099999999999" y="4680" width="350" height="259" as="geometry" />
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-128" value="Rescue of Zull&#39;jin" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1630.0000000000005" y="3400" width="57.14" height="30" as="geometry" />
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-148" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-128" target="0KqqUuabSOPp1zFiWMTm-130">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-130" value="Battle of Hillsbard Foothills" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1700.0000000000005" y="3400" width="57.14" height="30" as="geometry" />
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-153" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-128" target="0KqqUuabSOPp1zFiWMTm-131">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-131" value="Siege of Ironforge" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1773.16" y="3400" width="57.14" height="30" as="geometry" />
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-128" value="Rescue of Zull&#39;jin" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1700.0000000000005" y="3610" width="57.14" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-151" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-130" target="0KqqUuabSOPp1zFiWMTm-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-130" value="Battle of Hillsbard Foothills" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1780.0000000000005" y="3610" width="57.14" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-155" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-131" target="0KqqUuabSOPp1zFiWMTm-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-131" value="Siege of Ironforge" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1732.86" y="3670" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-132" value="Defense of Gnomeregan" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1840" y="3400" width="57.14" height="30" as="geometry" />
@@ -329,6 +341,15 @@
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-143" value="War of Spider" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1979.9999999999998" y="3680" width="57.14" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-147" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-146" target="0KqqUuabSOPp1zFiWMTm-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-146" value="Zul&#39;dare" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1620.0000000000005" y="3610" width="57.14" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-150" value="Battle of Hinterlands&lt;div&gt;(Andorhal)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1856.3300000000004" y="3610" width="57.14" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

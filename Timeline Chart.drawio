@@ -229,16 +229,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-91" value="Second War" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2060.0000000000005" y="3400" width="57.14" height="30" as="geometry" />
+          <mxGeometry x="1906.6900000000005" y="3370" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-93" target="0KqqUuabSOPp1zFiWMTm-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-93" value="Third War" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2197.1400000000003" y="3400" width="57.14" height="30" as="geometry" />
+          <mxGeometry x="2043.8300000000004" y="3370" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-94" value="Fourth War" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2334.28" y="3400" width="57.14" height="30" as="geometry" />
+          <mxGeometry x="2180.9700000000003" y="3370" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-96" target="0KqqUuabSOPp1zFiWMTm-98">
           <mxGeometry relative="1" as="geometry" />
@@ -249,7 +249,8 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-98" target="0KqqUuabSOPp1zFiWMTm-99">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1909" y="3465" />
+              <mxPoint x="1880" y="3445" />
+              <mxPoint x="1880" y="3445" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -257,7 +258,7 @@
           <mxGeometry x="1800.14" y="3430" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-99" value="Third Invasion" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1937.1399999999999" y="3360" width="57.14" height="30" as="geometry" />
+          <mxGeometry x="1939.9999999999998" y="3430" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-104" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="470" y="3605" width="100" height="85" as="geometry" />
@@ -269,7 +270,12 @@
           <mxGeometry x="20.00000000000034" y="35" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-107" target="0KqqUuabSOPp1zFiWMTm-91">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1820" y="3385" />
+              <mxPoint x="1820" y="3385" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-107" value="First War" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1700.0000000000005" y="3370" width="57.14" height="30" as="geometry" />

@@ -185,7 +185,7 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-422" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="0KqqUuabSOPp1zFiWMTm-104" source="0KqqUuabSOPp1zFiWMTm-418" target="0KqqUuabSOPp1zFiWMTm-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-423" value="Sealing Dragon Island" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="0KqqUuabSOPp1zFiWMTm-104">
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-423" value="Assault on Loreth&#39;Aran" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="0KqqUuabSOPp1zFiWMTm-104">
           <mxGeometry x="69.99222222222267" y="-130" width="69.3494017094017" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-424" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="0KqqUuabSOPp1zFiWMTm-104" source="0KqqUuabSOPp1zFiWMTm-80" target="0KqqUuabSOPp1zFiWMTm-423">
@@ -224,18 +224,6 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-55" value="Trade Wars" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="0KqqUuabSOPp1zFiWMTm-416">
           <mxGeometry x="818.1689383875434" y="210" width="71.2942475467964" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-82" value="Battle of Shar&#39;gel" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="0KqqUuabSOPp1zFiWMTm-416">
-          <mxGeometry x="401.8118564817153" y="420" width="71.2942475467964" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-110" value="Invasion on Argus" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="0KqqUuabSOPp1zFiWMTm-416">
-          <mxGeometry x="302.45657240486196" y="420" width="71.2942475467964" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-112" value="Genocide of Dranei" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="0KqqUuabSOPp1zFiWMTm-416">
-          <mxGeometry x="497.88565874113647" y="420" width="71.2942475467964" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-114" value="Ritual of Dark Portal" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="0KqqUuabSOPp1zFiWMTm-416">
-          <mxGeometry x="597.702596153522" y="420" width="71.2942475467964" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-121" value="Gnoll War" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="0KqqUuabSOPp1zFiWMTm-416">
           <mxGeometry x="556.5938532593195" y="260" width="56.09262917699718" height="30" as="geometry" />
         </mxCell>
@@ -260,21 +248,23 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-53" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;labelBorderColor=none;" edge="1" parent="0KqqUuabSOPp1zFiWMTm-416" source="0KqqUuabSOPp1zFiWMTm-54" target="0KqqUuabSOPp1zFiWMTm-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;labelBorderColor=none;fontColor=default;" edge="1" parent="0KqqUuabSOPp1zFiWMTm-416" source="0KqqUuabSOPp1zFiWMTm-110" target="0KqqUuabSOPp1zFiWMTm-82">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;labelBorderColor=none;fontColor=default;" edge="1" parent="0KqqUuabSOPp1zFiWMTm-416" source="0KqqUuabSOPp1zFiWMTm-82" target="0KqqUuabSOPp1zFiWMTm-112">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;labelBorderColor=none;fontColor=default;" edge="1" parent="0KqqUuabSOPp1zFiWMTm-416" source="0KqqUuabSOPp1zFiWMTm-112" target="0KqqUuabSOPp1zFiWMTm-114">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-123" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;labelBorderColor=none;" edge="1" parent="0KqqUuabSOPp1zFiWMTm-416" source="0KqqUuabSOPp1zFiWMTm-121" target="0KqqUuabSOPp1zFiWMTm-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-28" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=-0.002;exitY=0.695;exitDx=0;exitDy=0;labelBorderColor=none;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="0KqqUuabSOPp1zFiWMTm-416" source="0KqqUuabSOPp1zFiWMTm-2" target="0KqqUuabSOPp1zFiWMTm-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-114" value="Ritual of Dark Portal" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="0KqqUuabSOPp1zFiWMTm-416">
+          <mxGeometry x="590.0025961535218" y="110" width="71.2942475467964" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-432" value="Genocide of Dranei" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="0KqqUuabSOPp1zFiWMTm-416">
+          <mxGeometry x="485.30185648171533" y="110" width="71.2942475467964" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-434" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="0KqqUuabSOPp1zFiWMTm-416" source="0KqqUuabSOPp1zFiWMTm-432" target="0KqqUuabSOPp1zFiWMTm-114">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="497.7256587411366" y="125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;labelBorderColor=none;fontColor=default;" edge="1" parent="0KqqUuabSOPp1zFiWMTm-402" source="0KqqUuabSOPp1zFiWMTm-14" target="0KqqUuabSOPp1zFiWMTm-11">
@@ -481,7 +471,7 @@
           <mxGeometry width="1431.43" height="530" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-392" value="" style="group" vertex="1" connectable="0" parent="0KqqUuabSOPp1zFiWMTm-403">
-          <mxGeometry y="196" width="100" height="114" as="geometry" />
+          <mxGeometry y="130" width="100" height="114" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-107" value="First War" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="0KqqUuabSOPp1zFiWMTm-392">
           <mxGeometry x="21.43000000000052" y="84" width="57.14" height="30" as="geometry" />
@@ -792,21 +782,6 @@
             <mxPoint x="1201.43" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;labelBorderColor=none;fontColor=default;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-114" target="0KqqUuabSOPp1zFiWMTm-107">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1180" y="3795" />
-              <mxPoint x="1180" y="3645" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-414" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-50" target="0KqqUuabSOPp1zFiWMTm-107">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1180" y="3645" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-412" value="Battle of Suramar Pass" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="49.802136752136676" y="3920" width="85.4791452991453" height="30" as="geometry" />
         </mxCell>
@@ -827,6 +802,36 @@
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-7" value="War Between Titans and Old Gods" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;direction=south;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-220.0004273504274" y="3651.43" width="71.19418803418803" height="57.14" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-429" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-114" target="0KqqUuabSOPp1zFiWMTm-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-430" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-50" target="0KqqUuabSOPp1zFiWMTm-107">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1230" y="3510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-82" value="Battle of Shar&#39;gel" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370.0018564817154" y="3470" width="71.2942475467964" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;labelBorderColor=none;fontColor=default;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-110" target="0KqqUuabSOPp1zFiWMTm-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-433" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-82" target="0KqqUuabSOPp1zFiWMTm-432">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-110" value="Invasion on Argus" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="249.99657240486198" y="3470" width="71.2942475467964" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-425" value="Sealing Dragon Island" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-190.00299145299107" y="3500" width="69.3494017094017" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-426" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="0KqqUuabSOPp1zFiWMTm-425" source="0KqqUuabSOPp1zFiWMTm-423">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-159.99521367521373" y="3515" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

@@ -991,8 +991,11 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-499" value="Zandalari, Kul Tiras, Void,&amp;nbsp;&lt;div&gt;Titan-forged, Mawspawns, Hall of Valor,&lt;div&gt;Kyrians&lt;/div&gt;&lt;/div&gt;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1037.26" y="4290" width="102.74" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-501" value="Realm of Death,&amp;nbsp;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-501" value="Realm of Death, Jailer,&lt;div&gt;Sylvanas, Arbiter&lt;/div&gt;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1146.8921367521366" y="4280" width="85.4791452991453" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-502" value="Dragon Island, Titan-forged" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1257.2621367521365" y="4280" width="85.4791452991453" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -103,16 +103,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-402" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry y="3340" width="1420" height="610" as="geometry" />
+          <mxGeometry y="3340" width="1420" height="620" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-1" value="Conflicts Before First War" style="rounded=0;html=1;strokeColor=default;align=left;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="0KqqUuabSOPp1zFiWMTm-402">
           <mxGeometry x="-500" width="1920" height="540" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-104" value="" style="group;labelBackgroundColor=default;labelBorderColor=none;fontColor=default;whiteSpace=wrap;" vertex="1" connectable="0" parent="0KqqUuabSOPp1zFiWMTm-402">
-          <mxGeometry x="-349.99521367521373" y="290" width="850" height="250" as="geometry" />
+          <mxGeometry x="-349.99521367521373" y="290" width="850" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-415" value="Burning Crusade (Before Great Sundering)" style="rounded=0;html=1;strokeColor=default;align=left;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="0KqqUuabSOPp1zFiWMTm-104">
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-415" value="Before Great Sundering" style="rounded=0;html=1;strokeColor=default;align=left;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="0KqqUuabSOPp1zFiWMTm-104">
           <mxGeometry x="-150" y="-260" width="1000" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-4" value="Rise of Demons" style="rounded=0;html=1;strokeColor=default;align=left;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="0KqqUuabSOPp1zFiWMTm-104">
+          <mxGeometry x="-120.00076923076921" y="-10" width="230.5982905982906" height="170" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-387" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="0KqqUuabSOPp1zFiWMTm-104" source="0KqqUuabSOPp1zFiWMTm-6" target="0KqqUuabSOPp1zFiWMTm-386">
           <mxGeometry relative="1" as="geometry" />
@@ -267,9 +270,6 @@
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-13" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBorderColor=none;" edge="1" parent="0KqqUuabSOPp1zFiWMTm-402" source="0KqqUuabSOPp1zFiWMTm-14" target="0KqqUuabSOPp1zFiWMTm-42">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-4" value="Rise of Demons" style="rounded=0;html=1;strokeColor=default;align=left;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="0KqqUuabSOPp1zFiWMTm-402">
-          <mxGeometry x="-469.99598290598294" y="290" width="230.5982905982906" height="170" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-405" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2940" y="3350" width="1230" height="530" as="geometry" />

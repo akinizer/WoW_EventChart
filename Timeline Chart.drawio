@@ -325,7 +325,7 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-142" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-139" target="0KqqUuabSOPp1zFiWMTm-141">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-139" value="Invasion of Draneor" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-139" value="Invasion of Draneor" style="rounded=0;html=1;strokeColor=default;align=left;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="2940" y="3130" width="390" height="750" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-144" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-141" target="0KqqUuabSOPp1zFiWMTm-143">

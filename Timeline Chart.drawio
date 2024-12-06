@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="KJoU3d3SJdPES4LQAqq6">
-    <mxGraphModel dx="3151" dy="-881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2451" dy="-1283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,7 +165,7 @@
           <mxGeometry x="49.9939316239319" y="35" width="69.3494017094017" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-42" value="First War Between&lt;div&gt;&amp;nbsp;Earthen-Iron Dwarves&lt;/div&gt;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="0KqqUuabSOPp1zFiWMTm-104">
-          <mxGeometry x="129.99905982905995" y="80" width="80" height="30" as="geometry" />
+          <mxGeometry x="119.33905982905995" y="80" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-40" value="Aqir and Troll War" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="0KqqUuabSOPp1zFiWMTm-104">
           <mxGeometry x="219.9990598290599" y="80" width="50.71" height="30" as="geometry" />
@@ -350,6 +350,21 @@
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;labelBorderColor=none;fontColor=default;" edge="1" parent="0KqqUuabSOPp1zFiWMTm-402" source="0KqqUuabSOPp1zFiWMTm-110" target="0KqqUuabSOPp1zFiWMTm-82">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-466" value="Neltharion starts to turn&lt;div&gt;into Deathwing&lt;/div&gt;" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="0KqqUuabSOPp1zFiWMTm-402" source="0KqqUuabSOPp1zFiWMTm-465" target="0KqqUuabSOPp1zFiWMTm-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-105" y="435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-465" value="War of Scaleborn" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;fontStyle=1" vertex="1" parent="0KqqUuabSOPp1zFiWMTm-402">
+          <mxGeometry x="-339.99786324786334" y="420" width="85.4791452991453" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-464" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="0KqqUuabSOPp1zFiWMTm-402" source="0KqqUuabSOPp1zFiWMTm-7" target="0KqqUuabSOPp1zFiWMTm-465">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-350" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-405" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2940" y="3350" width="1230" height="530" as="geometry" />
@@ -863,9 +878,6 @@
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-412" value="Battle of Suramar Pass" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="49.802136752136676" y="3920" width="85.4791452991453" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-83" value="War of Scaleborn" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="231.85341880341844" y="3950" width="69.3494017094017" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-84" value="Winterskorn&lt;div&gt;War&lt;/div&gt;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="353.22094017094014" y="3930" width="85.4791452991453" height="30" as="geometry" />

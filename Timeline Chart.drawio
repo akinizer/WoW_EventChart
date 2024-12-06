@@ -207,7 +207,7 @@
           <mxGeometry x="1190" y="3770" width="70.43" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-91" value="Second War(Alliance vs Orcish Horde of Draneor)" style="rounded=0;html=1;strokeColor=default;align=left;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;horizontal=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="3145" width="1270" height="735" as="geometry" />
+          <mxGeometry x="1630" y="3190" width="1270" height="690" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;labelBorderColor=none;fontColor=default;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-93" target="0KqqUuabSOPp1zFiWMTm-94">
           <mxGeometry relative="1" as="geometry" />
@@ -376,16 +376,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-168" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;entryX=0.381;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.381;exitY=0.997;exitDx=0;exitDy=0;exitPerimeter=0;labelBorderColor=none;" edge="1" parent="1">
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-168" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;exitX=0.381;exitY=0.997;exitDx=0;exitDy=0;exitPerimeter=0;labelBorderColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2118.870000000001" y="3877.7949999999996" as="sourcePoint" />
-            <mxPoint x="2118.870000000001" y="3145" as="targetPoint" />
+            <mxPoint x="2119" y="3190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-169" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;entryX=0.489;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.489;exitY=0.996;exitDx=0;exitDy=0;exitPerimeter=0;labelBorderColor=none;" edge="1" parent="1">
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-169" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;exitX=0.489;exitY=0.996;exitDx=0;exitDy=0;exitPerimeter=0;labelBorderColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2670.0024400000007" y="3869.56" as="sourcePoint" />
-            <mxPoint x="2670.0024400000007" y="3140.4399999999996" as="targetPoint" />
+            <mxPoint x="2670" y="3190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-170" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Tomb of Sargeras&lt;/span&gt;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#EA6B66;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">

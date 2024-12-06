@@ -322,7 +322,7 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-137" value="Siege of Blackrock Spire" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#EA6B66;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2449.7000000000003" y="3715" width="48.52" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-139" value="Invasion of Draneor" style="rounded=0;html=1;strokeColor=default;align=left;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;horizontal=1;" vertex="1" parent="1">
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-139" value="Invasion of Draneor" style="rounded=0;html=1;strokeColor=default;align=left;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;horizontal=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2940" y="3190" width="1230" height="690" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-144" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-141" target="0KqqUuabSOPp1zFiWMTm-143">
@@ -741,7 +741,7 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-376" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-374" target="0KqqUuabSOPp1zFiWMTm-364">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-374" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Horde Expedition&lt;/span&gt;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-374" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Iron Horde Expedition&lt;/span&gt;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3908.7999999999997" y="3330" width="76.84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-378" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Destruction of Dark Portal&lt;/span&gt;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">

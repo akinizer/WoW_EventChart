@@ -367,7 +367,7 @@
           <mxGeometry x="1740.3800000000003" y="3550" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-162" value="Destruction of Dark Portal" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1887.1399999999996" y="3670" width="48.52" height="30" as="geometry" />
+          <mxGeometry x="1877.14" y="3670" width="82.86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-140" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-162" target="0KqqUuabSOPp1zFiWMTm-139">
           <mxGeometry relative="1" as="geometry" />

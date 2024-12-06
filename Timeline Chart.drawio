@@ -644,8 +644,11 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-307" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-223" target="0KqqUuabSOPp1zFiWMTm-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-323" value="=" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-135" target="0KqqUuabSOPp1zFiWMTm-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-135" value="Siege of Capital Cİty" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#EA6B66;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2435.7000000000007" y="3390" width="76.84" height="30" as="geometry" />
+          <mxGeometry x="2440.000000000001" y="3390" width="76.84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-272" value="=" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-319" target="0KqqUuabSOPp1zFiWMTm-265">
           <mxGeometry x="0.2143" width="50" height="50" relative="1" as="geometry">
@@ -705,14 +708,14 @@
             <mxPoint x="2370" y="3470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-314" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-135" target="0KqqUuabSOPp1zFiWMTm-136">
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-314" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-135" target="0KqqUuabSOPp1zFiWMTm-136">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2536" y="3420" as="sourcePoint" />
             <mxPoint x="2482" y="3520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-223" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Siege of Dalaran&lt;/span&gt;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#EA6B66;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2340.0000000000005" y="3460" width="76.84" height="30" as="geometry" />
+          <mxGeometry x="2322.6000000000004" y="3440" width="76.84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-316" value="=" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-179" target="0KqqUuabSOPp1zFiWMTm-176">
           <mxGeometry x="0.3333" width="50" height="50" relative="1" as="geometry">

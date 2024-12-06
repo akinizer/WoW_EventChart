@@ -833,7 +833,7 @@
             <mxPoint x="-159.99521367521373" y="3515" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-440" value="Exodar&#39;s Crystals&amp;nbsp;&lt;div&gt;Cause Corruption&lt;/div&gt;&lt;div&gt;&amp;nbsp;in Silvergale&lt;/div&gt;" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-437" target="0KqqUuabSOPp1zFiWMTm-439">
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-440" value="Exodar&#39;s Crystals&amp;nbsp;&lt;div&gt;Cause Corruption and&lt;/div&gt;&lt;div&gt;Storms in Silvergale&lt;/div&gt;" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-437" target="0KqqUuabSOPp1zFiWMTm-439">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-437" value="Crash of Exodar" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">

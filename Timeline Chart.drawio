@@ -371,7 +371,7 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-162" value="Sealing Dark Portal" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#EA6B66;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2692.59" y="3513" width="77.41" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-140" value="Khadgar Sacrficied&lt;div&gt;Link Still Remains&lt;/div&gt;" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.54;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBorderColor=none;entryPerimeter=0;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-162" target="0KqqUuabSOPp1zFiWMTm-139">
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-140" value="Khadgar Damaged&lt;div&gt;Link Still Remains&lt;/div&gt;" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.54;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBorderColor=none;entryPerimeter=0;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-162" target="0KqqUuabSOPp1zFiWMTm-139">
           <mxGeometry x="-0.2941" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

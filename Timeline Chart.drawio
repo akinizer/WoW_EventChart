@@ -173,6 +173,24 @@
             <mxPoint x="787.2236752136753" y="-85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-409" value="Endless War" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="0KqqUuabSOPp1zFiWMTm-104">
+          <mxGeometry x="-100.00367521367491" y="-210" width="69.3494017094017" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-418" value="Betrayal of Black Dragos and Deahwing" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="0KqqUuabSOPp1zFiWMTm-104">
+          <mxGeometry x="-110.00777777777733" y="-130" width="69.3494017094017" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-80" value="Dragon Wars" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="0KqqUuabSOPp1zFiWMTm-104">
+          <mxGeometry x="-20.467179487179067" y="-130" width="69.3494017094017" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-422" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="0KqqUuabSOPp1zFiWMTm-104" source="0KqqUuabSOPp1zFiWMTm-418" target="0KqqUuabSOPp1zFiWMTm-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-423" value="Sealing Dragon Island" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="0KqqUuabSOPp1zFiWMTm-104">
+          <mxGeometry x="69.99222222222267" y="-130" width="69.3494017094017" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-424" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="0KqqUuabSOPp1zFiWMTm-104" source="0KqqUuabSOPp1zFiWMTm-80" target="0KqqUuabSOPp1zFiWMTm-423">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-388" value="" style="group" vertex="1" connectable="0" parent="0KqqUuabSOPp1zFiWMTm-402">
           <mxGeometry x="500" y="210" width="920" height="330" as="geometry" />
         </mxCell>
@@ -788,12 +806,6 @@
               <mxPoint x="1180" y="3645" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-80" value="Dragon Wars" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-188.27239316239275" y="3900" width="69.3494017094017" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-409" value="Endless War" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-95.83888888888862" y="3900" width="69.3494017094017" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-412" value="Battle of Suramar Pass" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="49.802136752136676" y="3920" width="85.4791452991453" height="30" as="geometry" />

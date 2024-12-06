@@ -744,8 +744,8 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-374" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Iron Horde Expedition&lt;/span&gt;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3908.7999999999997" y="3555" width="76.84" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-378" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Destruction of Dark Portal&lt;/span&gt;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="4059.9999999999995" y="3485" width="76.84" height="30" as="geometry" />
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-378" value="&lt;span style=&quot;&quot;&gt;Destruction of Dark Portal&lt;/span&gt;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="4060" y="3485" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-379" value="Battle of Hellfire Citadel" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2949.9999999999995" y="3610" width="57.14" height="30" as="geometry" />

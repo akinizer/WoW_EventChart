@@ -959,7 +959,7 @@
           <mxGeometry x="410" y="4210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-484" value="Mists of Pandaria" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#1482FF;strokeColor=#6c8ebf;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="702.95" y="4210" width="100" height="60" as="geometry" />
+          <mxGeometry x="640" y="4210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-485" value="Warlords of Draneor" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#1482FF;strokeColor=#6c8ebf;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="810" y="4210" width="100" height="60" as="geometry" />
@@ -985,8 +985,8 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-495" value="-Deathwing returns from Deepholme to cause new Sundering&lt;div&gt;-Twilight Highlands activities&lt;/div&gt;&lt;div&gt;-Firelands &amp;amp; Archimonde&lt;/div&gt;&lt;div&gt;-Fall of Gilneas and Eruption of Kezan&lt;/div&gt;&lt;div&gt;-Death of Deathwing in Deepholme&lt;/div&gt;" style="rounded=0;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="398.63" y="4280" width="211.37" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-496" value="Mogu-Pandaren-Sha" style="rounded=0;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="710.2121367521368" y="4280" width="85.4791452991453" height="30" as="geometry" />
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-496" value="-Ally vs Horde&lt;div&gt;-Pandaren vs Sha &amp;amp; Mogu &amp;amp; Mantid&lt;/div&gt;&lt;div&gt;-Varian &amp;amp; Garrosh&lt;/div&gt;" style="rounded=0;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="647.26" y="4280" width="152.74" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-497" value="Alternate Draneor, Nez&#39;ghul and Iron Horde" style="rounded=0;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="817.2621367521367" y="4280" width="85.4791452991453" height="30" as="geometry" />

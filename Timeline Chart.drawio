@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Page-1" id="KJoU3d3SJdPES4LQAqq6">
-    <mxGraphModel dx="2323" dy="-2456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3918" dy="-1542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0KqqUuabSOPp1zFiWMTm-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2345.5600000000004" y="3780" as="sourcePoint" />
-            <mxPoint x="1995.84" y="3580" as="targetPoint" />
+            <mxPoint x="2278.2300000000005" y="3780" as="sourcePoint" />
+            <mxPoint x="1928.51" y="3580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-100" value="Burning Crusade (After Dark Portal)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=left;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
@@ -211,10 +211,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-93" value="Third War" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2946.9600000000005" y="3562.5" width="57.14" height="30" as="geometry" />
+          <mxGeometry x="2879.6300000000006" y="3562.5" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-94" value="Fourth War" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="3084.1000000000004" y="3562.5" width="57.14" height="30" as="geometry" />
+          <mxGeometry x="3016.7700000000004" y="3562.5" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-96" target="0KqqUuabSOPp1zFiWMTm-98">
           <mxGeometry relative="1" as="geometry" />
@@ -287,7 +287,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-128" value="Rescue of Zull&#39;jin" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1777.3300000000006" y="3605" width="57.14" height="30" as="geometry" />
+          <mxGeometry x="1710.0000000000007" y="3605" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-151" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-130" target="0KqqUuabSOPp1zFiWMTm-150">
           <mxGeometry relative="1" as="geometry" />
@@ -296,7 +296,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-130" value="Battle of Hillsbard Foothills" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1850.4900000000005" y="3605" width="57.14" height="30" as="geometry" />
+          <mxGeometry x="1783.1600000000005" y="3605" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-155" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-131" target="0KqqUuabSOPp1zFiWMTm-130">
           <mxGeometry relative="1" as="geometry" />
@@ -305,52 +305,52 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-131" value="Siege of Ironforge" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1810.1899999999998" y="3695" width="57.14" height="30" as="geometry" />
+          <mxGeometry x="1742.86" y="3695" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-132" value="Defense of Gnomeregan" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2026.8" y="3750" width="57.14" height="30" as="geometry" />
+          <mxGeometry x="1959.47" y="3750" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-133" value="Burning of Quel&#39;Thalas" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2213.8" y="3550" width="57.14" height="30" as="geometry" />
+          <mxGeometry x="2146.4700000000003" y="3550" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-165" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-134" target="0KqqUuabSOPp1zFiWMTm-135">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-134" value="Razing of Blackwood" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2270.79" y="3380" width="57.14" height="30" as="geometry" />
+          <mxGeometry x="2203.46" y="3380" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-135" value="Siege of Capital Cİty" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2369.7200000000003" y="3380" width="76.84" height="30" as="geometry" />
+          <mxGeometry x="2302.3900000000003" y="3380" width="76.84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-161" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-136" target="0KqqUuabSOPp1zFiWMTm-137">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-136" value="Battle of Crestfall" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2383.7200000000003" y="3677.5" width="48.52" height="30" as="geometry" />
+          <mxGeometry x="2316.3900000000003" y="3677.5" width="48.52" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-163" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-137" target="0KqqUuabSOPp1zFiWMTm-162">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-137" value="Siege of Blackrock Spire" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2564.4599999999996" y="3700" width="48.52" height="30" as="geometry" />
+          <mxGeometry x="2497.1299999999997" y="3700" width="48.52" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-142" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-139" target="0KqqUuabSOPp1zFiWMTm-141">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-139" value="Invasion of Draneor" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2733.8" y="3565" width="57.14" height="30" as="geometry" />
+          <mxGeometry x="2666.4700000000003" y="3565" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-144" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-141" target="0KqqUuabSOPp1zFiWMTm-143">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-141" value="Battle of Grim Batol" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2733.8" y="3627.5" width="57.14" height="30" as="geometry" />
+          <mxGeometry x="2666.4700000000003" y="3627.5" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-145" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-143" target="0KqqUuabSOPp1zFiWMTm-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-143" value="War of Spider" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2733.8" y="3677.5" width="57.14" height="30" as="geometry" />
+          <mxGeometry x="2666.4700000000003" y="3677.5" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-147" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-146" target="0KqqUuabSOPp1zFiWMTm-128">
           <mxGeometry relative="1" as="geometry" />
@@ -359,15 +359,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-146" value="Zul&#39;dare" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1697.3300000000004" y="3605" width="57.14" height="30" as="geometry" />
+          <mxGeometry x="1630.0000000000005" y="3605" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-150" value="Battle of Hinterlands&lt;div&gt;(Andorhal)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1933.6600000000005" y="3605" width="57.14" height="30" as="geometry" />
+          <mxGeometry x="1866.3300000000006" y="3605" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-164" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-156" target="0KqqUuabSOPp1zFiWMTm-134">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1885" y="3400" />
+              <mxPoint x="1817.67" y="3400" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -378,159 +378,159 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-156" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Battle of Tol Barad&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1856.3300000000004" y="3480" width="57.14" height="30" as="geometry" />
+          <mxGeometry x="1789.0000000000005" y="3480" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-162" value="Destruction of Dark Portal" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2612.98" y="3630" width="82.86" height="30" as="geometry" />
+          <mxGeometry x="2545.65" y="3630" width="82.86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-140" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-162" target="0KqqUuabSOPp1zFiWMTm-139">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-168" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2360.8" y="3790" as="sourcePoint" />
-            <mxPoint x="2360.8" y="3370" as="targetPoint" />
+            <mxPoint x="2293.4700000000003" y="3790" as="sourcePoint" />
+            <mxPoint x="2293.4700000000003" y="3370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-169" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;entryX=0.364;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2553.8" y="3790" as="sourcePoint" />
-            <mxPoint x="2553.65744" y="3370" as="targetPoint" />
+            <mxPoint x="2486.4700000000003" y="3790" as="sourcePoint" />
+            <mxPoint x="2486.32744" y="3370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-170" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Tomb of Sargeras&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2369.7200000000003" y="3550" width="76.84" height="30" as="geometry" />
+          <mxGeometry x="2302.3900000000003" y="3550" width="76.84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-190" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-171" target="0KqqUuabSOPp1zFiWMTm-162">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-171" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Fall of Lordareon&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2470.8" y="3610" width="76.84" height="30" as="geometry" />
+          <mxGeometry x="2403.4700000000003" y="3610" width="76.84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-175" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-173" target="0KqqUuabSOPp1zFiWMTm-171">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-173" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Siege of Dalaran&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2369.5600000000004" y="3610" width="76.84" height="30" as="geometry" />
+          <mxGeometry x="2302.2300000000005" y="3610" width="76.84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-174" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-170" target="0KqqUuabSOPp1zFiWMTm-173">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2407.8" y="3610" as="targetPoint" />
+            <mxPoint x="2340.4700000000003" y="3610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-177" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-176" target="0KqqUuabSOPp1zFiWMTm-170">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-176" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Dead Rise as Quel&#39;Talas Falls&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2279.23" y="3510" width="76.84" height="30" as="geometry" />
+          <mxGeometry x="2211.9" y="3510" width="76.84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-183" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-178" target="0KqqUuabSOPp1zFiWMTm-176">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-178" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Destruction&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;of Stratholme&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2193.8" y="3510" width="76.99" height="30" as="geometry" />
+          <mxGeometry x="2126.4700000000003" y="3510" width="76.99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-179" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Betrayal and Destruction of Alterac&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2279.23" y="3450" width="76.84" height="30" as="geometry" />
+          <mxGeometry x="2211.9" y="3450" width="76.84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-182" value="=" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-176" target="0KqqUuabSOPp1zFiWMTm-179">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2293.8" y="3510" as="sourcePoint" />
-            <mxPoint x="2343.8" y="3460" as="targetPoint" />
+            <mxPoint x="2226.4700000000003" y="3510" as="sourcePoint" />
+            <mxPoint x="2276.4700000000003" y="3460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-184" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-130" target="0KqqUuabSOPp1zFiWMTm-156">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2192.8" y="3610" as="sourcePoint" />
-            <mxPoint x="2203.8" y="3395" as="targetPoint" />
+            <mxPoint x="2125.4700000000003" y="3610" as="sourcePoint" />
+            <mxPoint x="2136.4700000000003" y="3395" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-188" value="=" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-136" target="0KqqUuabSOPp1zFiWMTm-173">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2373.8" y="3570" as="sourcePoint" />
-            <mxPoint x="2423.8" y="3520" as="targetPoint" />
+            <mxPoint x="2306.4700000000003" y="3570" as="sourcePoint" />
+            <mxPoint x="2356.4700000000003" y="3520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-191" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Prisoners&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2202.45" y="3450" width="59.7" height="30" as="geometry" />
+          <mxGeometry x="2135.12" y="3450" width="59.7" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-192" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.031;entryY=0.542;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-191" target="0KqqUuabSOPp1zFiWMTm-179">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-193" value="=" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-191" target="0KqqUuabSOPp1zFiWMTm-178">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2163.8" y="3590" as="sourcePoint" />
-            <mxPoint x="2213.8" y="3540" as="targetPoint" />
+            <mxPoint x="2096.4700000000003" y="3590" as="sourcePoint" />
+            <mxPoint x="2146.4700000000003" y="3540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-195" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-194" target="0KqqUuabSOPp1zFiWMTm-178">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-194" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Rising of Tyr&#39;s Hand&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2124.33" y="3510" width="56.99" height="30" as="geometry" />
+          <mxGeometry x="2057" y="3510" width="56.99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-197" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-196" target="0KqqUuabSOPp1zFiWMTm-191">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-196" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Battle of Darrowmere&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2113.8" y="3450" width="69.92" height="30" as="geometry" />
+          <mxGeometry x="2046.4700000000003" y="3450" width="69.92" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-198" value="=" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-196" target="0KqqUuabSOPp1zFiWMTm-194">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2242.8" y="3490" as="sourcePoint" />
-            <mxPoint x="2241.8" y="3520" as="targetPoint" />
+            <mxPoint x="2175.4700000000003" y="3490" as="sourcePoint" />
+            <mxPoint x="2174.4700000000003" y="3520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-200" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-199" target="0KqqUuabSOPp1zFiWMTm-196">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-199" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Tyr&#39;s Hand&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2060.94" y="3450" width="40" height="30" as="geometry" />
+          <mxGeometry x="1993.6100000000001" y="3450" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-202" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-201" target="0KqqUuabSOPp1zFiWMTm-199">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-201" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Grim Batol&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2003.8" y="3450" width="40" height="30" as="geometry" />
+          <mxGeometry x="1936.47" y="3450" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-205" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-204" target="0KqqUuabSOPp1zFiWMTm-194">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-204" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Runestone&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;at Caer&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Darrow&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2077.94" y="3510" width="22.86" height="30" as="geometry" />
+          <mxGeometry x="2010.6100000000001" y="3510" width="22.86" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-206" value="=" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-199" target="0KqqUuabSOPp1zFiWMTm-204">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2158.8" y="3490" as="sourcePoint" />
-            <mxPoint x="2162.8" y="3520" as="targetPoint" />
+            <mxPoint x="2091.4700000000003" y="3490" as="sourcePoint" />
+            <mxPoint x="2095.4700000000003" y="3520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-208" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-207" target="0KqqUuabSOPp1zFiWMTm-201">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-207" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Dun Algaz&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1950.8" y="3450" width="40" height="30" as="geometry" />
+          <mxGeometry x="1883.47" y="3450" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-212" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-209" target="0KqqUuabSOPp1zFiWMTm-204">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-209" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Fall of Stormgarde&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2003.8" y="3510" width="40" height="30" as="geometry" />
+          <mxGeometry x="1936.47" y="3510" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-211" value="=" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-201" target="0KqqUuabSOPp1zFiWMTm-209">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2090.8" y="3490" as="sourcePoint" />
-            <mxPoint x="2093.8" y="3520" as="targetPoint" />
+            <mxPoint x="2023.4700000000003" y="3490" as="sourcePoint" />
+            <mxPoint x="2026.4700000000003" y="3520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-214" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;Badlands&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1950.8" y="3510" width="40" height="30" as="geometry" />
+          <mxGeometry x="1883.47" y="3510" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-215" value="=" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-207" target="0KqqUuabSOPp1zFiWMTm-214">
           <mxGeometry x="0.0667" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2033.8" y="3490" as="sourcePoint" />
-            <mxPoint x="2033.8" y="3520" as="targetPoint" />
+            <mxPoint x="1966.47" y="3490" as="sourcePoint" />
+            <mxPoint x="1966.47" y="3520" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -538,13 +538,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-218" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Southshore&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1777.3300000000004" y="3550" width="57.14" height="30" as="geometry" />
+          <mxGeometry x="1710.0000000000005" y="3550" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-221" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-220" target="0KqqUuabSOPp1zFiWMTm-218">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-220" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Ambush at Tarren Mill&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1697.33" y="3550" width="57.14" height="30" as="geometry" />
+          <mxGeometry x="1630" y="3550" width="57.14" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

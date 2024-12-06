@@ -662,6 +662,9 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-263" value="Coast of Bones" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="2177.71" y="3200" width="56.47" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-275" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-265" target="0KqqUuabSOPp1zFiWMTm-274">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-265" value="Heart of Evil" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="2322.5999999999995" y="3200" width="56.47" height="30" as="geometry" />
         </mxCell>
@@ -687,6 +690,9 @@
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-223" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Eye of Dalaran&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2316.39" y="3450" width="76.84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-274" value="Siege of Vanguard" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="2393.229999999999" y="3200" width="56.47" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

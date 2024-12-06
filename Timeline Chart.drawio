@@ -683,7 +683,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-355" value="Heart of Evil" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3632.599999999999" y="3260" width="56.47" height="30" as="geometry" />
+          <mxGeometry x="3589.999999999999" y="3260" width="56.47" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-356" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-357" target="0KqqUuabSOPp1zFiWMTm-368">
           <mxGeometry relative="1" as="geometry">
@@ -694,18 +694,11 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-357" value="Assault on Kul&#39;Tiras" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3487.04" y="3330" width="57.14" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-358" value="=" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-368" target="0KqqUuabSOPp1zFiWMTm-355">
-          <mxGeometry x="0.2143" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3499.9999999999995" y="3510" as="sourcePoint" />
-            <mxPoint x="3549.9999999999995" y="3460" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-359" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-360" target="0KqqUuabSOPp1zFiWMTm-362">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-360" value="Siege of Vanguard" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3703.2299999999987" y="3260" width="56.47" height="30" as="geometry" />
+          <mxGeometry x="3693.529999999999" y="3260" width="56.47" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-361" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-362" target="0KqqUuabSOPp1zFiWMTm-364">
           <mxGeometry relative="1" as="geometry" />
@@ -713,12 +706,12 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-362" value="Dance of Laughing Skull" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3790.3099999999986" y="3260" width="56.47" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-363" value="Dark Portal is Sealed&lt;div&gt;Draneor is Destroyed&lt;/div&gt;&lt;div&gt;Outland Emerged&lt;/div&gt;" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-364">
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-363" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;labelBorderColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-364" target="0KqqUuabSOPp1zFiWMTm-378">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4150" y="3270" as="targetPoint" />
+            <mxPoint x="4050" y="3270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-364" value="Bitter Taste of Victory&lt;div&gt;(Alliance Expedition&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Sons of Lothar)&lt;/div&gt;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-364" value="Bitter Taste of Victory&lt;div&gt;(Alliance Expedition)&lt;/div&gt;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3871.4899999999993" y="3260" width="151.46" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-365" value="=" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-362" target="0KqqUuabSOPp1zFiWMTm-366">
@@ -727,11 +720,32 @@
             <mxPoint x="3769.9999999999995" y="3500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-375" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-366" target="0KqqUuabSOPp1zFiWMTm-374">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-366" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Eye of Dalaran&lt;/span&gt;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3780.12" y="3320" width="76.84" height="30" as="geometry" />
+          <mxGeometry x="3780.12" y="3330" width="76.84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-371" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-368" target="0KqqUuabSOPp1zFiWMTm-369">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-368" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Tomb of Sargeras&lt;/span&gt;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="3622.4100000000003" y="3320" width="76.84" height="30" as="geometry" />
+          <mxGeometry x="3579.8100000000004" y="3330" width="76.84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-372" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-369" target="0KqqUuabSOPp1zFiWMTm-366">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-369" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Altrac&lt;/span&gt;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3698.19" y="3330" width="47.14" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-376" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-374" target="0KqqUuabSOPp1zFiWMTm-364">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-374" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Horde Expedition&lt;/span&gt;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3908.7999999999997" y="3330" width="76.84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-378" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Destruction of Dark Portal&lt;/span&gt;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="4059.9999999999995" y="3260" width="76.84" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

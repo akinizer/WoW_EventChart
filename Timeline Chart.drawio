@@ -204,7 +204,7 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-85" value="War of Three Kingdoms" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1190" y="3770" width="70.43" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-91" value="Second War" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=left;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;horizontal=1;" vertex="1" parent="1">
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-91" value="Second War(Alliance vs Outland)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=left;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="1620" y="3145" width="1787.96" height="735" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-93" target="0KqqUuabSOPp1zFiWMTm-94">
@@ -286,6 +286,9 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-153" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-128" target="0KqqUuabSOPp1zFiWMTm-131">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-300" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-128" target="0KqqUuabSOPp1zFiWMTm-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-128" value="Rescue of Zull&#39;jin" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1710.0000000000007" y="3605" width="57.14" height="30" as="geometry" />
         </mxCell>
@@ -307,8 +310,11 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-131" value="Siege of Ironforge" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1742.86" y="3695" width="57.14" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-301" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-132" target="0KqqUuabSOPp1zFiWMTm-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-132" value="Defense of Gnomeregan" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1959.47" y="3750" width="57.14" height="30" as="geometry" />
+          <mxGeometry x="1740.38" y="3750" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-133" value="Burning of Quel&#39;Thalas" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2221.7500000000005" y="3600" width="57.14" height="30" as="geometry" />
@@ -613,25 +619,6 @@
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-247" value="Alleria&#39;s Journey" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1640.0000000000005" y="3200" width="57.14" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-250" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-249" target="0KqqUuabSOPp1zFiWMTm-247">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1560" y="3435" />
-              <mxPoint x="1560" y="3215" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-251" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-249" target="0KqqUuabSOPp1zFiWMTm-228">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1560" y="3435" />
-              <mxPoint x="1560" y="3285" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-249" value="Great Portal" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="1640.0000000000005" y="3420" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-255" value="Fall of Auchindoun" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="2027.6299999999999" y="3200" width="56.47" height="30" as="geometry" />

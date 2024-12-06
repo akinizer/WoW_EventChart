@@ -6,17 +6,14 @@
         <mxCell id="1" parent="0" />
         <mxCell id="0KqqUuabSOPp1zFiWMTm-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="0KqqUuabSOPp1zFiWMTm-91">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2190" y="3590" as="sourcePoint" />
+            <mxPoint x="1961.76" y="3780" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-100" value="Burning Crusade (After Dark Portal)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=left;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1682.53" y="3300" width="1167.47" height="580" as="geometry" />
-        </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-2" target="0KqqUuabSOPp1zFiWMTm-100">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="1420" y="3300" width="1167.47" height="580" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-1" value="Conflicts Before First War" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=left;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="681.79" y="3300" width="988.21" height="580" as="geometry" />
+          <mxGeometry x="681.79" y="3300" width="738.21" height="580" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-2" value="Burning Crusade (Before Dark Portal)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=left;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="682.38" y="3570" width="720" height="240" as="geometry" />
@@ -229,36 +226,36 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-91" value="Second War" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1906.6900000000005" y="3370" width="57.14" height="30" as="geometry" />
+          <mxGeometry x="1678.4500000000005" y="3560" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-93" target="0KqqUuabSOPp1zFiWMTm-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-93" value="Third War" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2043.8300000000004" y="3370" width="57.14" height="30" as="geometry" />
+          <mxGeometry x="1815.5900000000004" y="3560" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-94" value="Fourth War" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="2180.9700000000003" y="3370" width="57.14" height="30" as="geometry" />
+          <mxGeometry x="1952.7300000000002" y="3560" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-96" target="0KqqUuabSOPp1zFiWMTm-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-96" value="Invasion of Outland" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="3430" width="57.14" height="30" as="geometry" />
+          <mxGeometry x="1471.76" y="3620" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-98" target="0KqqUuabSOPp1zFiWMTm-99">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1880" y="3445" />
-              <mxPoint x="1880" y="3445" />
+              <mxPoint x="1651.76" y="3635" />
+              <mxPoint x="1651.76" y="3635" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-98" value="War in Draneor" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1800.14" y="3430" width="57.14" height="30" as="geometry" />
+          <mxGeometry x="1571.9" y="3620" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-99" value="Third Invasion" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1939.9999999999998" y="3430" width="57.14" height="30" as="geometry" />
+          <mxGeometry x="1711.7599999999998" y="3620" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-104" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="470" y="3605" width="100" height="85" as="geometry" />
@@ -272,13 +269,13 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-107" target="0KqqUuabSOPp1zFiWMTm-91">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1820" y="3385" />
-              <mxPoint x="1820" y="3385" />
+              <mxPoint x="1591.76" y="3575" />
+              <mxPoint x="1591.76" y="3575" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-107" value="First War" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#000000;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1700.0000000000005" y="3370" width="57.14" height="30" as="geometry" />
+          <mxGeometry x="1471.7600000000004" y="3560" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-110" target="0KqqUuabSOPp1zFiWMTm-82">
           <mxGeometry relative="1" as="geometry" />
@@ -295,8 +292,8 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-114" target="0KqqUuabSOPp1zFiWMTm-107">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1640" y="3685" />
-              <mxPoint x="1640" y="3385" />
+              <mxPoint x="1440" y="3685" />
+              <mxPoint x="1440" y="3575" />
             </Array>
           </mxGeometry>
         </mxCell>

@@ -402,7 +402,7 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-175" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-173" target="0KqqUuabSOPp1zFiWMTm-171">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2568" y="3611" />
+              <mxPoint x="2490" y="3610" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -433,7 +433,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-179" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Betrayal and Destruction of Alterac&lt;/span&gt;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#EA6B66;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2379.07" y="3450" width="76.84" height="30" as="geometry" />
+          <mxGeometry x="2211.9" y="3450" width="76.84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-184" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-130" target="0KqqUuabSOPp1zFiWMTm-156">
           <mxGeometry relative="1" as="geometry">
@@ -537,7 +537,11 @@
           <mxGeometry x="1630" y="3550" width="57.14" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-226" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-223" target="0KqqUuabSOPp1zFiWMTm-162">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2650" y="3465" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-240" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-227" target="0KqqUuabSOPp1zFiWMTm-236">
           <mxGeometry relative="1" as="geometry" />
@@ -639,7 +643,7 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-265" value="Heart of Evil" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2322.5999999999995" y="3200" width="56.47" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-270" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-267" target="0KqqUuabSOPp1zFiWMTm-170">
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-270" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-267" target="0KqqUuabSOPp1zFiWMTm-318">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -647,11 +651,11 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-267" value="Assault on Kul&#39;Tiras" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2177.0400000000004" y="3270" width="57.14" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-307" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-135" target="0KqqUuabSOPp1zFiWMTm-136">
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-307" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-223" target="0KqqUuabSOPp1zFiWMTm-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-135" value="Siege of Capital Cİty" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#EA6B66;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2505.8400000000006" y="3390" width="76.84" height="30" as="geometry" />
+          <mxGeometry x="2435.7000000000007" y="3390" width="76.84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-272" value="=" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-170" target="0KqqUuabSOPp1zFiWMTm-265">
           <mxGeometry x="0.2143" width="50" height="50" relative="1" as="geometry">
@@ -659,9 +663,6 @@
             <mxPoint x="2240" y="3400" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-223" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Eye of Dalaran&lt;/span&gt;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2470.12" y="3450" width="76.84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-278" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-274" target="0KqqUuabSOPp1zFiWMTm-277">
           <mxGeometry relative="1" as="geometry" />
@@ -690,16 +691,10 @@
         <mxCell id="0KqqUuabSOPp1zFiWMTm-288" value="Bitter Taste of Victory&lt;div&gt;(Alliance Expedition&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Sons of Lothar)&lt;/div&gt;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2718.37" y="3200" width="151.46" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-291" value="=" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-277" target="0KqqUuabSOPp1zFiWMTm-223">
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-291" value="=" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-277" target="0KqqUuabSOPp1zFiWMTm-317">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2410" y="3490" as="sourcePoint" />
             <mxPoint x="2460" y="3440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-292" value="=" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-274" target="0KqqUuabSOPp1zFiWMTm-179">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2508" y="3240" as="sourcePoint" />
-            <mxPoint x="2512" y="3460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-306" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.58;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryPerimeter=0;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-304" target="0KqqUuabSOPp1zFiWMTm-91">
@@ -719,6 +714,28 @@
             <mxPoint x="2320" y="3520" as="sourcePoint" />
             <mxPoint x="2370" y="3470" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-314" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-135" target="0KqqUuabSOPp1zFiWMTm-223">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2536" y="3420" as="sourcePoint" />
+            <mxPoint x="2482" y="3520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-223" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Siege of Dalaran&lt;/span&gt;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2435.7000000000003" y="3450" width="76.84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-316" value="=" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBorderColor=none;" edge="1" parent="1" source="0KqqUuabSOPp1zFiWMTm-179" target="0KqqUuabSOPp1zFiWMTm-176">
+          <mxGeometry x="0.3333" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2175" y="3490" as="sourcePoint" />
+            <mxPoint x="2175" y="3520" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-317" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Eye of Dalaran&lt;/span&gt;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2536.78" y="3320" width="76.84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-318" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Tomb of Sargeras&lt;/span&gt;" style="rounded=0;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;fontStyle=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2180.6600000000008" y="3330" width="76.84" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

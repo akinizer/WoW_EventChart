@@ -962,19 +962,19 @@
           <mxGeometry x="640" y="4210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-485" value="Warlords of Draneor" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#1482FF;strokeColor=#6c8ebf;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="810" y="4210" width="100" height="60" as="geometry" />
+          <mxGeometry x="870" y="4210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-486" value="Legion" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#1482FF;strokeColor=#6c8ebf;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1130" y="4210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-487" value="Battle for Azeroth" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#1482FF;strokeColor=#6c8ebf;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="4210" width="100" height="60" as="geometry" />
+          <mxGeometry x="1410" y="4210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-488" value="Shadowlands" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#1482FF;strokeColor=#6c8ebf;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="4210" width="100" height="60" as="geometry" />
+          <mxGeometry x="1520" y="4210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-489" value="Dragonflight" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#1482FF;strokeColor=#6c8ebf;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="4210" width="100" height="60" as="geometry" />
+          <mxGeometry x="1630" y="4210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-493" value="-Outland,&lt;div&gt;-Second Invasion&amp;nbsp;&lt;/div&gt;&lt;div&gt;-Intro to Illidian&lt;/div&gt;" style="rounded=0;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="50" y="4280" width="140" height="30" as="geometry" />
@@ -989,19 +989,19 @@
           <mxGeometry x="620" y="4280" width="152.74" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-497" value="-Alternate Draneor&lt;div&gt;-Grommash, Blackhand, Iron Horde vs Frostwolf &amp;amp; Ally&lt;/div&gt;&lt;div&gt;-Siege of Orgrimmar, Return to Darkportal&lt;/div&gt;&lt;div&gt;-Vindicator Maraad &amp;amp; Thrall&amp;nbsp;&lt;/div&gt;&lt;div&gt;-Karabor Battle &amp;amp; Nerz&#39;hul&lt;/div&gt;&lt;div&gt;-Garrosh alters past by warning Grommash for not drinking Mannaroth Blood as plan of Gul&#39;dan, repel Legion and improve technology&amp;nbsp;&lt;/div&gt;&lt;div&gt;-Legion fails, Gul&#39;dan imprisoned, Iron Horde exposed&lt;/div&gt;" style="rounded=0;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="780" y="4281" width="290" height="30" as="geometry" />
+          <mxGeometry x="780" y="4330" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0KqqUuabSOPp1zFiWMTm-498" value="Third Legion Invasion, Illidari, Argus, Lightforged, Na&#39;ru, Pantheon,&amp;nbsp; Sargeras, Class Halls&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Gul&#39;dan raises Broken Shore and Tomb of Sargeras&lt;/div&gt;" style="rounded=0;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="4290" width="120" height="30" as="geometry" />
+        <mxCell id="0KqqUuabSOPp1zFiWMTm-498" value="-Gul&#39;dan raises Broken Shore and Tomb of Sargeras&lt;div&gt;-Third Invasion flows from Tomb&lt;/div&gt;&lt;div&gt;-Prepare to summon Sargeras&lt;/div&gt;&lt;div&gt;-Artifacts to repel Legion&lt;/div&gt;&lt;div&gt;-Tomb Portal to Argus&lt;/div&gt;&lt;div&gt;-Pillars of Creation to close portals&lt;/div&gt;&lt;div&gt;-Xavius and Satyrs, Vrykul God-King Skovald, Nightborne&lt;/div&gt;&lt;div&gt;-Khadgar moves Dalaran to Broken Isles&lt;/div&gt;&lt;div&gt;-Acherus moves to Broken Isles&lt;/div&gt;&lt;div&gt;-Allies: Illidari, Lightforged, Na&#39;ru, Class Halls&lt;/div&gt;&lt;div&gt;-Battles: Pantheon, Sargeras,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="4330" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-499" value="Zandalari, Kul Tiras, Void,&amp;nbsp;&lt;div&gt;Titan-forged, Mawspawns, Hall of Valor,&lt;div&gt;Kyrians, Nezjatar&lt;/div&gt;&lt;/div&gt;" style="rounded=0;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1247.26" y="4290" width="102.74" height="30" as="geometry" />
+          <mxGeometry x="1410" y="4290" width="102.74" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-501" value="Realm of Death, Jailer,&lt;div&gt;Sylvanas, Arbiter&lt;/div&gt;" style="rounded=0;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1356.8921367521366" y="4280" width="85.4791452991453" height="30" as="geometry" />
+          <mxGeometry x="1526.8921367521366" y="4280" width="85.4791452991453" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0KqqUuabSOPp1zFiWMTm-502" value="Dragon Island, Titan-forged" style="rounded=0;html=1;strokeColor=default;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBorderColor=none;labelBackgroundColor=default;fillColor=default;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1467.2621367521365" y="4280" width="85.4791452991453" height="30" as="geometry" />
+          <mxGeometry x="1637.2621367521365" y="4280" width="85.4791452991453" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
